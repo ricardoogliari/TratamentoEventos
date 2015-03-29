@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TratamentoEventos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="muda_cor">Muda Cor</string>
+    <string name="inicia_rave">Inicia Rave</string>
+    <string name="para_rave">Para Rave</string>
+</resources>
